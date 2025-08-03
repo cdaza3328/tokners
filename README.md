@@ -42,3 +42,11 @@ Opciones de contacto y redes sociales.
 ## Cómo ver el sitio
 
 Abre el archivo `Tokners Terminado.html` en tu navegador o publica el proyecto en GitHub Pages para verlo en línea.
+
+## Publicar en GitHub Pages
+
+1. Ve a la configuración del repositorio en GitHub.
+2. Busca la sección **Pages**.
+3. Selecciona la rama `main` y la carpeta raíz (`/root`).
+4. Guarda los cambios.
+5. Accede a tu sitio web
